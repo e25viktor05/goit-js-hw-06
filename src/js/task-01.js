@@ -1,0 +1,1 @@
+const listEl = document.querySelector("#number of categories:", listEl.childElementCount); const items = [...listEl.children];           items.forEach((element) => {console.log("Category:",Element.firstElementChild.textConent);                              console.log("Elements:",element.lastElementChild.childElementCount);})
